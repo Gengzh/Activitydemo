@@ -23,6 +23,7 @@ public class HomeFragment extends BaseFragment {
 
 
     @BindView(R.id.videoView)
+
     VideoView videoView;
 
 
