@@ -30,6 +30,10 @@ public class HomeFragment extends BaseFragment {
         HomeFragment fragment = new HomeFragment();
         Bundle args = new Bundle();
 
+
+
+
+
         fragment.setArguments(args);
         return fragment;
     }
